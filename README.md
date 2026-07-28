@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/nageshpatthe83-web/nageshpatthe83-web/blob/main/WhatsApp%20Image%202026-07-28%20at%209.15.32%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Nagesh Patthe</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
