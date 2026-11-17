@@ -91,16 +91,3 @@
 | **Frontend** | React, HTML5, CSS3, Tailwind CSS |
 | **Core Concepts** | Data Structures & Algorithms, OOP, Distributed Systems, Multi-threading, Computer Networks |
 | **Developer Tools** | Git, GitHub, CMake, Docker, Linux / Unix Shell, VS Code |
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagesh-patthe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagesh-patthe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh-patthe&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
-</p>
