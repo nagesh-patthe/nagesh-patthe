@@ -1,40 +1,106 @@
-## Hi there 👋
-
-<!--
-**nageshpatthe83-web/nageshpatthe83-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![logo](https://github.com/nageshpatthe83-web/nageshpatthe83-web/blob/main/WhatsApp%20Image%202026-07-28%20at%209.15.32%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Nagesh Patthe</h1>
-<h3 align="center">A passionate Computer Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshpatthe83-web&label=Profile%20views&color=0e75b6&style=flat" alt="nageshpatthe83-web" /> </p>
+<h3 align="center">Computer Engineering Undergraduate @ Vishwakarma Institute of Technology (VIT), Pune</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nagesh-patthe-7160b338b?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/nagesh-patthe-7160b338b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-- 📫 How to reach me **nageshpatthe83@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nagesh patthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagesh patthe" height="30" width="40" /></a>
-<a href="https://instagram.com/nageshpatthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nageshpatthe" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagesh-patthe-7160b338b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nageshpatthe83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=nagesh-patthe&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nageshpatthe83-web&show_icons=true&locale=en&layout=compact" alt="nageshpatthe83-web" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nageshpatthe83-web&show_icons=true&locale=en" alt="nageshpatthe83-web" /></p>
+- 🎓 **Education:** Pursuing B.Tech in **Computer Engineering** at **Vishwakarma Institute of Technology (VIT), Pune** (Class of 2027)
+- ⚡ **Interests:** High-Throughput Distributed Systems, Low-Latency C++, Real-Time Event Streaming, and Software Architecture
+- 🏆 **Hackathons:** Participant in **Code Apex Hackathon** — *Team Survivors (Emerson Industrial Automation Track)*
+- 🛠️ **Current Focus:** Building scalable backend microservices, algorithmic simulation engines, and concurrent processing architectures
+- 📫 **Reach Me:** [nageshpatthe83@gmail.com](mailto:nageshpatthe83@gmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/nagesh-patthe-7160b338b)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshpatthe83-web&" alt="nageshpatthe83-web" /></p>
+---
+
+### 🌟 Featured Engineering Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/nagesh-patthe/AETHER-project">AETHER</a></h3>
+      <p align="center"><strong>High-Throughput Distributed Fraud Detection Engine</strong></p>
+      <ul>
+        <li>Deterministic C++17 execution engine processing <strong>150k+ TPS</strong> with sub-50µs latency.</li>
+        <li>Apache Kafka event streaming, Redis state caching, and PostgreSQL 3NF normalized persistence.</li>
+        <li>Welford online Z-score statistical profiler, Haversine spatiotemporal anomaly rules, and React command center.</li>
+      </ul>
+      <p align="center">
+        <code>C++17</code> • <code>Kafka</code> • <code>Redis</code> • <code>PostgreSQL</code> • <code>FastAPI</code> • <code>React</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🦅 <a href="https://github.com/nagesh-patthe/survivors-eagle-eye">Project Eagle Eye</a></h3>
+      <p align="center"><strong>AI-Powered Industrial Control Panel Quality Inspection</strong></p>
+      <ul>
+        <li>Developed for <strong>Emerson Track</strong> at the Code Apex Hackathon by <em>Team Survivors</em>.</li>
+        <li>Automated defect detection, component validation, and assembly verification in real time.</li>
+        <li>Full-stack dashboard visualizing quality metrics and inspection telemetry.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>Computer Vision</code> • <code>Industrial Automation</code> • <code>Full Stack</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ <a href="https://github.com/nagesh-patthe/DevCollab-Pro-CPP">DevCollab Pro (C++)</a></h3>
+      <p align="center"><strong>Intelligent Code Evaluation & Hackathon Platform</strong></p>
+      <ul>
+        <li>Engineered in native C++ applying GoF Design Patterns and Object-Oriented Principles.</li>
+        <li>Automated multi-dimensional scoring, plagiarism detection, and execution time profiling.</li>
+      </ul>
+      <p align="center">
+        <code>Modern C++</code> • <code>OOP</code> • <code>Design Patterns</code> • <code>Algorithms</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <a href="https://github.com/nagesh-patthe/DevCollab-Pro">DevCollab Pro (Full Platform)</a></h3>
+      <p align="center"><strong>Collaborative Assessment & Hackathon Management</strong></p>
+      <ul>
+        <li>Academic assessment and collaborative evaluation platform for VIT Pune engineering teams.</li>
+        <li>Role-based access, automated submission pipelines, and analytics reports.</li>
+      </ul>
+      <p align="center">
+        <code>Web Architecture</code> • <code>Database Design</code> • <code>Security</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Technical Skills & Stack
+
+| Category | Technologies & Tools |
+|---|---|
+| **Languages** | C, C++ (C++17), Python, JavaScript (ES6+), SQL |
+| **Backend & Distributed** | FastAPI, Flask, Apache Kafka, Redis, RESTful APIs, WebSockets |
+| **Databases** | PostgreSQL, MySQL, SQLite, SQLAlchemy (ORM) |
+| **Frontend** | React, HTML5, CSS3, Tailwind CSS |
+| **Core Concepts** | Data Structures & Algorithms, OOP, Distributed Systems, Multi-threading, Computer Networks |
+| **Developer Tools** | Git, GitHub, CMake, Docker, Linux / Unix Shell, VS Code |
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagesh-patthe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagesh-patthe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh-patthe&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+</p>
