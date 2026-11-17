@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing B.Tech in **Computer Engineering** at **Vishwakarma Institute of Technology (VIT), Pune** (Class of 2027)
+- 🎓 **Education:** Pursuing B.Tech in **Computer Engineering** at **Vishwakarma Institute of Technology (VIT), Pune**
 - ⚡ **Interests:** High-Throughput Distributed Systems, Low-Latency C++, Real-Time Event Streaming, and Software Architecture
 - 🏆 **Hackathons:** Participant in **Code Apex Hackathon** — *Team Survivors (Emerson Industrial Automation Track)*
 - 🛠️ **Current Focus:** Building scalable backend microservices, algorithmic simulation engines, and concurrent processing architectures
